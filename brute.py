@@ -12,7 +12,7 @@ import schedule
 from pytz import timezone
 from datetime import datetime 
 
-URL = "http://copyrightform-helpcenter.tk/support/"
+URL = "https://yanaalana.com/P2w9YSZpPTRDNTcwRw=="
 headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36"}
 
 
